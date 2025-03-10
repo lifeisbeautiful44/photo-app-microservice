@@ -11,6 +11,7 @@
 	<groupId>lhng.learning.microserivce</groupId>
 	<artifactId>Api-Gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
 	<name>Api-Gateway</name>
 	<description>Api Gateway</description>
 	<url/>
@@ -37,7 +38,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-gateway-starter</artifactId>
+			<artifactId>spring-cloud-starter-gateway</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
