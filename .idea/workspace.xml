@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bb05721-e8f7-4863-baf7-6f9a0b0a5f76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +135,7 @@
       <updated>1741625653263</updated>
       <workItem from="1741625654468" duration="1561000" />
       <workItem from="1741711907855" duration="1133000" />
-      <workItem from="1741797457046" duration="931000" />
+      <workItem from="1741797457046" duration="3132000" />
     </task>
     <servers />
   </component>
