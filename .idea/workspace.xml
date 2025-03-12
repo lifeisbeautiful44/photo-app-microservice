@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bb05721-e8f7-4863-baf7-6f9a0b0a5f76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.All in Photo-App-Eureka-Server.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -65,7 +67,15 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+  <component name="RunManager" selected="Spring Boot.PhotoAppApiUsersApplication">
+    <configuration name="All in Photo-App-Eureka-Server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Photo-App-Eureka-Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Api-Gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="lhng.learning.microserivce.apigateway.ApiGatewayApplication" />
@@ -80,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhotoAppApiUsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="PhotoAppApiUsersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
       <module name="Photo-App-Api-Users" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="lhng.learning.microservice.photoapp.users.PhotoAppApiUsersApplication" />
       <method v="2">
@@ -94,6 +104,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.All in Photo-App-Eureka-Server" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.PhotoAppApiAccountManagementApplication" />
+      <item itemvalue="Spring Boot.PhotoAppApiUsersApplication" />
+      <item itemvalue="Spring Boot.PhotoAppEurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Photo-App-Eureka-Server" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -111,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1741625653263</updated>
       <workItem from="1741625654468" duration="1561000" />
-      <workItem from="1741711907855" duration="861000" />
+      <workItem from="1741711907855" duration="1133000" />
+      <workItem from="1741797457046" duration="931000" />
     </task>
     <servers />
   </component>
