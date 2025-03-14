@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bb05721-e8f7-4863-baf7-6f9a0b0a5f76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/lhng/learning/microservice/photoapp/users/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PhotoAppApiUsersApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
     <configuration name="All in Photo-App-Eureka-Server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Photo-App-Eureka-Server" />
       <option name="PACKAGE_NAME" value="" />
@@ -144,7 +146,7 @@
       <workItem from="1741797457046" duration="3132000" />
       <workItem from="1741804559557" duration="636000" />
       <workItem from="1741882996111" duration="104000" />
-      <workItem from="1741939005969" duration="1566000" />
+      <workItem from="1741939005969" duration="2926000" />
     </task>
     <servers />
   </component>
